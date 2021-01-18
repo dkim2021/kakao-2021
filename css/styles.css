@@ -13,6 +13,7 @@
 /* Pages */
 @import "pages/login.css";
 @import "pages/friends.css";
+@import "pages/find.css";
 
 body {
   font-family: "Open Sans", sans-serif;
