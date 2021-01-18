@@ -10,12 +10,15 @@
 @import "components/user-component.css";
 @import "components/badge.css";
 @import "components/icon-row.css";
+@import "components/alt-screen-header.css";
 
 /* Pages */
 @import "pages/login.css";
 @import "pages/friends.css";
 @import "pages/find.css";
 @import "pages/more.css";
+@import "pages/settings.css";
+@import "pages/chat.css";
 
 body {
   font-family: "Open Sans", sans-serif;
